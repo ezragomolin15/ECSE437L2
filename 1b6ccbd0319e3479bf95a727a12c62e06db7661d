@@ -18,6 +18,23 @@
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "2731840e_5823777d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1019499
+      },
+      "writtenOn": "2022-10-04T01:31:29Z",
+      "side": 1,
+      "message": "Ezra, please note that on second thought, i\u0027ve added some recommended changes. please do them and let me know when they are done. you are a hard worker, so don\u0027t be lazy. I think you\u0027re on the right track here",
+      "revId": "1b6ccbd0319e3479bf95a727a12c62e06db7661d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "5e727e8a_974de1bd",
@@ -48,6 +65,24 @@
       "writtenOn": "2022-10-04T01:25:53Z",
       "side": 1,
       "message": "well done seriously",
+      "revId": "1b6ccbd0319e3479bf95a727a12c62e06db7661d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3cf27ddb_8deba50f",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1019499
+      },
+      "writtenOn": "2022-10-04T01:31:29Z",
+      "side": 1,
+      "message": "in retrospect, i think you should add some more details. Some ideas can be student id and name. Its important to cite your work. But dont be sad about the edits, its normal not to get it right on the first time. You\u0027re a good boy",
+      "parentUuid": "188f176e_1f0364e4",
       "revId": "1b6ccbd0319e3479bf95a727a12c62e06db7661d",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     },
