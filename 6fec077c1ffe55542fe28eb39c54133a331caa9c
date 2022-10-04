@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b04277c5_0f35a680",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1019459
+      },
+      "writtenOn": "2022-10-04T01:46:35Z",
+      "side": 1,
+      "message": "Hello Gregory, I have added the changes based on these previous comments!\nhttps://review.gerrithub.io/c/ezragomolin15/ECSE437L2/+/544251\nThanks and have a great night!",
+      "revId": "6fec077c1ffe55542fe28eb39c54133a331caa9c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
